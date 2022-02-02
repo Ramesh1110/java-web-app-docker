@@ -49,7 +49,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2019</p>
+		<p>&copy; Greens Technologies</p>
 	</footer>
 </div>
 
